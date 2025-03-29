@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/emp";  // Ensure 'emp' database exists
-        String user = "root";  // Your MySQL username
-        String password = "Pappu@123";  // Your MySQL password
+        String user = "xxx";  // Your MySQL username
+        String password = "xxxx";  // Your MySQL password
 
         Scanner sc = new Scanner(System.in);
 
